@@ -1,0 +1,152 @@
+[
+  {
+    "path": "path_traversal/01__Expressions.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/02__expression.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/03__testChameleonTalesExpressions.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/04__testExpressions.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/05__testHTMLTests.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/06__Expressions.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/07__expression.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/08__testExpressions.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/09__testHTMLTests.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "path_traversal/10__s3.py",
+    "cwe_id": "CWE-22",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/01__general.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/02__mixins.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/03__test_aggregates.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/04____init__.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/05__group_controller.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/06__user_controller.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/07__test_integration.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/08__app.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/09__model.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "sqli/10__flair.py",
+    "cwe_id": "CWE-89",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/01__ZRPythonExpr.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/02__testZRPythonExpr.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/03__Image.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/04__testFileAndImage.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/05__reviewtags.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/06__test_views.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/07__http.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/08__widgets.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/09__tests.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  },
+  {
+    "path": "xss/10__http.py",
+    "cwe_id": "CWE-79",
+    "cve_id": ""
+  }
+]
