@@ -1,10 +1,5 @@
 [
   {
-    "path": "path_traversal/01__Expressions.py",
-    "cwe_id": "CWE-22",
-    "cve_id": ""
-  },
-  {
     "path": "path_traversal/02__expression.py",
     "cwe_id": "CWE-22",
     "cve_id": ""
@@ -15,17 +10,7 @@
     "cve_id": ""
   },
   {
-    "path": "path_traversal/04__testExpressions.py",
-    "cwe_id": "CWE-22",
-    "cve_id": ""
-  },
-  {
     "path": "path_traversal/05__testHTMLTests.py",
-    "cwe_id": "CWE-22",
-    "cve_id": ""
-  },
-  {
-    "path": "path_traversal/06__Expressions.py",
     "cwe_id": "CWE-22",
     "cve_id": ""
   },
@@ -41,11 +26,6 @@
   },
   {
     "path": "path_traversal/09__testHTMLTests.py",
-    "cwe_id": "CWE-22",
-    "cve_id": ""
-  },
-  {
-    "path": "path_traversal/10__s3.py",
     "cwe_id": "CWE-22",
     "cve_id": ""
   },
