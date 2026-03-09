@@ -1,4 +1,3 @@
-```yaml
 name: "CodeQL Advanced"
 
 on:
@@ -56,4 +55,3 @@ jobs:
         with:
           name: codeql-sarif
           path: sarif-results
-```
